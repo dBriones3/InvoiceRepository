@@ -1,2 +1,2 @@
 # InvoiceRepository
-Exercism of repository patter
+Exercism of repository pattern
